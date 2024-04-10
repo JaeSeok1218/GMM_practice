@@ -5,7 +5,7 @@ library(gmm)
 
 # Generate data
 set.seed(123)
-y <- rnorm(300, 5,2)
+y <- rnorm(1000, 5,2)
 
 # Define the moment conditions
 g1 <- function(theta, y) {
