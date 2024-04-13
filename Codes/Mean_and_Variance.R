@@ -1,4 +1,4 @@
-# GMM practice
+# GMM practice 1
 # install.packages("gmm")
 # ---------------------------------
 library(gmm)
